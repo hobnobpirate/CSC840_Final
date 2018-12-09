@@ -5,7 +5,7 @@
 - Author: Ryan Hoy
 - Date: 12/8/2018
 - Description: This presentation covers a few different ways to interact with a PHP backdoor webshell in order to demonstrate understanding a specific aspect of the HTTP protocol and how to automate interaction with it. This page and associated presentation are for the Cyber Operations I (CSC840) course at [Dakota State University][dsu].
-- Video Presentation: [Availabele on YouTube][yt]
+- Video Presentation: [Available on YouTube][yt]
 
 ## Why You Should Care
 
